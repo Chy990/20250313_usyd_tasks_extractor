@@ -1,12 +1,86 @@
-2025-03-13 21:09:24,469 - INFO - Start collector
-2025-03-13 21:09:25,528 - ERROR - Cannot find tbody for ENGG2112
-2025-03-13 21:09:25,528 - INFO - Saved ENGG2112 assessment into resources\task_info.md
-2025-03-13 21:09:25,784 - ERROR - Cannot find tbody for ENGG3112
-2025-03-13 21:09:25,784 - INFO - Saved ENGG3112 assessment into resources\task_info.md
-2025-03-13 21:09:25,942 - ERROR - Cannot find tbody for AMME2500
-2025-03-13 21:09:25,943 - INFO - Saved AMME2500 assessment into resources\task_info.md
-2025-03-13 21:09:26,108 - INFO - Markdown convert to task_info.html
-2025-03-13 21:09:31,619 - INFO - Start due
-2025-03-13 21:09:31,620 - INFO - Read task_info.md file.
-2025-03-13 21:09:31,631 - INFO - Writing due.md
-2025-03-13 21:09:31,632 - INFO - Writing due.html
+2025-03-13 16:11:19,756 - INFO - Start collector
+2025-03-13 16:11:20,282 - INFO - task_info.md clear
+2025-03-13 16:11:20,552 - ERROR - Cannot find tbody for AMME3500
+2025-03-13 16:11:20,552 - INFO - Saved AMME3500 assessment into task_info.md
+2025-03-13 16:11:20,759 - ERROR - Cannot find tbody for ENGG3112
+2025-03-13 16:11:20,759 - INFO - Saved ENGG3112 assessment into task_info.md
+2025-03-13 16:11:20,830 - INFO - Markdown convert to task_info.html
+2025-03-13 16:15:31,746 - INFO - Start collector
+2025-03-13 16:15:32,584 - ERROR - Cannot find tbody for AMME3500
+2025-03-13 16:15:32,585 - INFO - Saved AMME3500 assessment into resources\task_info.md
+2025-03-13 16:15:32,764 - ERROR - Cannot find tbody for ENGG3112
+2025-03-13 16:15:32,765 - INFO - Saved ENGG3112 assessment into resources\task_info.md
+2025-03-13 16:15:32,828 - INFO - Markdown convert to task_info.html
+2025-03-13 16:15:58,698 - INFO - Start collector
+2025-03-13 16:15:59,223 - INFO - resources\task_info.md clear
+2025-03-13 16:15:59,645 - ERROR - Cannot find tbody for AMME3500
+2025-03-13 16:15:59,645 - INFO - Saved AMME3500 assessment into resources\task_info.md
+2025-03-13 16:15:59,838 - ERROR - Cannot find tbody for ENGG3112
+2025-03-13 16:15:59,839 - INFO - Saved ENGG3112 assessment into resources\task_info.md
+2025-03-13 16:16:00,855 - ERROR - Cannot find tbody for AERO3261
+2025-03-13 16:16:00,855 - INFO - Saved AERO3261 assessment into resources\task_info.md
+2025-03-13 16:16:02,031 - ERROR - Cannot find tbody for AERO3360
+2025-03-13 16:16:02,032 - INFO - Saved AERO3360 assessment into resources\task_info.md
+2025-03-13 16:16:02,223 - ERROR - Cannot find tbody for AMME2500
+2025-03-13 16:16:02,224 - INFO - Saved AMME2500 assessment into resources\task_info.md
+2025-03-13 16:16:02,300 - INFO - Markdown convert to task_info.html
+2025-03-13 16:18:59,161 - INFO - Start due
+2025-03-13 16:18:59,162 - INFO - Read task_info.md file.
+2025-03-13 16:19:19,534 - INFO - Start due
+2025-03-13 16:19:19,535 - INFO - Read task_info.md file.
+2025-03-13 16:19:19,541 - INFO - Writing due.md
+2025-03-13 16:19:19,542 - INFO - Writing due.html
+2026-07-03 12:07:26,637 - INFO - Start collector
+2026-07-03 12:07:26,924 - INFO - resources/task_info.md clear
+2026-07-03 12:07:29,161 - ERROR - Cannot find tbody for ENGG2112
+2026-07-03 12:07:29,161 - INFO - Saved ENGG2112 assessment into resources/task_info.md
+2026-07-03 12:07:31,527 - ERROR - Cannot find tbody for ENGG3112
+2026-07-03 12:07:31,527 - INFO - Saved ENGG3112 assessment into resources/task_info.md
+2026-07-03 12:07:33,816 - ERROR - Cannot find tbody for AMME2500
+2026-07-03 12:07:33,816 - INFO - Saved AMME2500 assessment into resources/task_info.md
+2026-07-03 12:07:33,837 - INFO - Markdown convert to task_info.html
+2026-07-07 11:29:51,429 - INFO - Start collector
+2026-07-07 11:29:51,465 - INFO - Markdown converted to /var/folders/q9/fl_c2w5s1fdbqw00d3s5ys5c0000gn/T/tmpe2pygwc7/task_info.html
+2026-07-07 11:30:27,742 - INFO - Start collector
+2026-07-07 12:01:49,257 - INFO - Start collector
+2026-07-07 12:02:03,697 - WARNING - Assessment table not found for AERO3560: https://www.sydney.edu.au/units/AERO3560/2026-S2C-ND-CC
+2026-07-07 12:02:36,091 - INFO - Markdown converted to task_info.html
+2026-07-07 12:02:36,091 - INFO - Saved AERO3560 assessment into resources/task_info.md
+2026-07-07 12:03:14,945 - INFO - Start collector
+2026-07-07 12:06:35,999 - INFO - Start collector
+2026-07-07 12:07:31,480 - INFO - Start collector
+2026-07-07 12:11:35,482 - INFO - Start collector
+2026-07-07 12:18:51,388 - INFO - Start collector
+2026-07-07 12:19:04,250 - INFO - Markdown converted to task_info.html
+2026-07-07 12:19:04,250 - INFO - Saved AERO4460 assessment into resources/task_info.md
+2026-07-07 12:19:10,842 - INFO - Markdown converted to task_info.html
+2026-07-07 12:19:21,734 - INFO - Markdown converted to task_info.html
+2026-07-07 12:19:21,735 - INFO - Saved AERO4460 assessment into resources/task_info.md
+2026-07-07 12:22:39,989 - INFO - Start collector
+2026-07-07 12:22:47,316 - INFO - Start collector
+2026-07-07 12:23:15,599 - INFO - Start collector
+2026-07-07 12:25:34,586 - INFO - Start collector
+2026-07-07 12:28:08,350 - INFO - Start collector
+2026-07-07 12:29:14,932 - INFO - Start collector
+2026-07-07 12:29:31,783 - INFO - Start collector
+2026-07-07 12:30:58,555 - INFO - Start collector
+2026-07-07 12:32:15,348 - INFO - Start collector
+2026-07-07 12:32:55,681 - INFO - Start collector
+2026-07-07 12:33:27,920 - INFO - Start collector
+2026-07-07 12:33:29,728 - INFO - Markdown converted to task_info.html
+2026-07-07 12:33:40,483 - INFO - Markdown converted to task_info.html
+2026-07-07 12:33:48,169 - INFO - Markdown converted to task_info.html
+2026-07-07 12:33:48,169 - INFO - Saved AERO4460 assessment into resources/task_info.md
+2026-07-07 12:33:54,525 - INFO - Markdown converted to task_info.html
+2026-07-07 12:33:54,525 - INFO - Saved AERO5260 assessment into resources/task_info.md
+2026-07-07 12:34:05,721 - INFO - Markdown converted to task_info.html
+2026-07-07 12:34:05,721 - INFO - Saved WRIT1000 assessment into resources/task_info.md
+2026-07-07 12:37:12,812 - INFO - Start collector
+2026-07-07 14:29:40,734 - INFO - Start collector
+2026-07-07 14:29:40,734 - INFO - Start collector
+2026-07-07 14:29:40,751 - INFO - Markdown converted to /var/folders/q9/fl_c2w5s1fdbqw00d3s5ys5c0000gn/T/tmp438jl_kd/task_info.html
+2026-07-07 14:29:54,773 - INFO - Start collector
+2026-07-07 14:29:54,785 - INFO - Markdown converted to /var/folders/q9/fl_c2w5s1fdbqw00d3s5ys5c0000gn/T/tmpvpzoj268/task_info.html
+2026-07-07 14:35:35,628 - INFO - Start collector
+2026-07-07 14:35:51,311 - INFO - Start collector
+2026-07-07 14:36:01,571 - INFO - Start collector

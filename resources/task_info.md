@@ -1,40 +1,31 @@
 
-## ENGG2112
+## AERO4460
 
-| Type | Description | Weight | Due | Length |
-| --- | --- | --- | --- | --- |
-| Presentation | Progress updates | 10% | Multiple weeks | 5 minutes |
-| Assignment | Reflection | 10% | 08 Jun 2025 | Lesser of 3 pages or 1000 words |
-| Tutorial quiz | Quiz 1 | 5% | Week 03 | 15 minutes |
-| Tutorial quiz | Quiz 2 | 5% | Week 04 | 15 minutes |
-| Tutorial quiz | Quiz 3 | 5% | Week 05 | 15 minutes |
-| Tutorial quiz | Quiz 4 | 5% | Week 06 | 15 minutes |
-| Tutorial quiz | Coding quiz | 10% | Week 07 | 60 minutes |
-| Assignment | Project Proposal | 10% | 20 Apr 2025 | Lesser of 3 pages or 1000 words |
-| Assignment | Final report | 30% | 01 Jun 2025 | Lesser of 10 pages or 5000 words. |
-| Presentation | Final presentation | 10% | Week 13 | 15 minutes |
+| Type | Description | Weight | Due | Length | Use of AI |
+| --- | --- | --- | --- | --- | --- |
+| Q&A following presentation, submission or placement | Presentation/Seminar | 35% | Multiple weeks | n/a | AI prohibited |
+| Portfolio or journal | Meeting minutes | 5% | Multiple weeks | up to 3 pages | AI allowed |
+| Practical skill | Initial proposal | 5% | Week 02 | 1 page | AI allowed |
+| Written work | Preliminary design | 10% | Week 04 | 15 pages | AI allowed |
+| Written work | Detailed design solutions | 10% | Week 07 | no page limit, | AI allowed |
+| Written work | Detailed design solutions 2 | 10% | Week 10 | no page limit | AI allowed |
+| Written work | Final design report | 25% | Week 13 | 100 pages | AI allowed |
 
-## ENGG3112
+## AERO5260
 
-| Type | Description | Weight | Due | Length |
-| --- | --- | --- | --- | --- |
-| Assignment | Peer Review of stage 3 | 10% | 22 Apr 2025 | 500 words |
-| Online task | Self and peer assessment of team contribution | 0% | Multiple weeks | 15minutes per task. |
-| Assignment | Stage 1: Context and precedents | 15% | 11 Mar 2025 | 3 pages max. |
-| Presentation | Stage 2: Engineering requirements and concept evaluation | 5% | 28 Mar 2025 | 3 pages max |
-| Presentation | Stage 3: System/concept design | 15% | 14 Apr 2025 | 3 hours. |
-| Tutorial quiz | Threshold concepts quiz | 10% | Week 10 | 30 mins |
-| Assignment | Stage 4: Implementation plan | 30% | 23 May 2025 | 30 pages max + references/appendix |
-| Assignment | Stage 5: Critical comparative review | 15% | 30 May 2025 | 3 pages |
+| Type | Description | Weight | Due | Length | Use of AI |
+| --- | --- | --- | --- | --- | --- |
+| Written exam | Final Exam | 50% | Formal exam period | 2 hours | AI prohibited |
+| Case studies | Distributed assignment | 15% | Multiple weeks | n/a | AI allowed |
+| Contribution | Lecture Attendence | 5% | Closing date | Full semester lecture schedule | AI allowed |
+| Written work | Assignment | 30% | 16 May 2026 | 8 weeks | AI allowed |
 
-## AMME2500
+## WRIT1000
 
-| Type | Description | Weight | Due | Length |
-| --- | --- | --- | --- | --- |
-| Supervised exam | Final exam | 60% | Formal exam period | 2 hours |
-| Small continuous assessment | Weekly tutorial problems | 5% | Multiple weeks | 2 hr per week during allocated tutorial |
-| Small test | Major Assignment Prospectus | 1% | 14 Mar 2025 | 2 hr |
-| Small test | Quiz 1 | 5% | 24 Mar 2025 | 1 hr |
-| Small test | Quiz 2 | 5% | 05 May 2025 | 1 hr |
-| Assignment | Major Assignment Group Report | 14% | 30 May 2025 | Average student 12 hours |
-| Assignment | Lab reports | 10% | 30 May 2025 | Average student 8 hours |
+| Type | Description | Weight | Due | Length | Use of AI |
+| --- | --- | --- | --- | --- | --- |
+| In-class quiz | Writing Portfolio | 20% | Multiple weeks | 1000 words (10 x 100 words) | AI allowed |
+| Out-of-class quiz | Early Feedback Task | 0% | 14 Mar 2026 | Online quiz | AI allowed |
+| Written work | Project Proposal | 20% | 20 Mar 2026 | 1000 words | AI allowed |
+| Written work | Project Draft | 20% | 01 May 2026 | 1000 words | AI allowed |
+| Written work | Final Project | 40% | 29 May 2026 | 1500 words | AI allowed |

@@ -1,39 +1,24 @@
-**[中文](README-cn.md)**
-# Mini Project (20250310 Created)
+# USYD Assessment Collector
 
-## Operational Steps
-**Extract**
-Write unit codes in `unit_codes.txt`, e.g:
+用于提取 University of Sydney 指定 unit 在指定年份和学期的 assessment 信息，并生成 `task_info.html` 方便查看。
 
-`AERO3360`  
-`AERO3261`  
-`AMME3500`  
+## 使用方法
 
-Save, then run `collector`, `collector` will generate `task_info.html` for user to read immediately.
-**Check Due**
-Make sure you already runned `collector` or `task_info.html` exists. Run `due`, and it will write next 7 days dues into `due.html`, include `Multiple weeks` type assessments.
+1. 启动 `collector.py`。
+2. 在窗口中选择年份和学期。
+   - 1 月默认选择上一年的 `S2`。
+   - 2 月到 7 月默认选择今年的 `S1`。
+   - 8 月到 12 月默认选择今年的 `S2`。
+3. 输入 unit code，例如 `AERO4460`。
+4. 点击 `提取`。
+   - 如果该年份和学期存在这个 unit，会把 assessment 追加写入 `task_info.html`。
+   - 如果当前学期没有这个 unit，会弹出提示窗口。
+   - 如果该 unit 已经在结果中存在，不会重复提取。
+5. 点击 `打开结果` 可以直接查看 `task_info.html`。
+6. 点击 `清除结果` 可以清空已有结果。
+7. 点击 `退出` 关闭程序。
 
+## 输出文件
 
-## Remaining Description (Just record developed process and files property)
-
-### Background
-Students always confused what units and assessments they will do in a new semester. In general, USYD student will learn 4 units (24 credit points) in a semester. If students want to make a clear plan, they will spend much time to serach every units web to found it.
-
-### Program Description
-This program can help USYD student to extract all units' assessments in `2025S1`, and generate as a `html` file that student can read conveniently. Meanwhile can help student to check dues in the next 7 days.
-
-### Files Description
-`collector.py`: Extractor (High efficiency and low storage)
-`due.py`: Extract next 7 days due
-
-### Updated record
-**2025.03.10**
-1. Implement the most basic scanning of the form and read it.
-
-**2025.03.11**
-1. Improve the table reading format and add `html` format as the reading version.
-2. Add window display for reading progress.
-
-**2025.03.13**
-1. Significantly improve the entire reading method, and the efficiency is expected to increase by 3 times.
-2. The file is overall lightweight and occupies less space.
+- `task_info.html`：最终查看用的 assessment 页面。
+- `resources/task_info.md`：程序内部用于保存 assessment 数据的 Markdown 文件。
